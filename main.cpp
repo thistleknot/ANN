@@ -1,3 +1,5 @@
+// code is graciously reconstructed from http://www.ai-junkie.com/ann/evolved/nnt1.html
+
 #include <iostream>
 #include <vector>
 #include <random>
